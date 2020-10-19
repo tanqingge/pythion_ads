@@ -1,0 +1,4 @@
+float32[6] start_pose
+float32[6] end_pose
+---
+int32 flag
